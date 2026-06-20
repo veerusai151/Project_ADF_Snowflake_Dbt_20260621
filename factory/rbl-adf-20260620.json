@@ -1,0 +1,15 @@
+{
+	"name": "rbl-adf-20260620",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae7ac5e1-05d7-45bd-8549-39a0c2b17082",
+		"tenantId": "748b948b-610c-4456-984c-cec114693b2b"
+	}
+}
